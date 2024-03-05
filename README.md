@@ -7,7 +7,9 @@ Swagger er tilgjengelig på http://localhost:8080/api/documentation/swagger for 
 Applikasjonen kan også kjøres som en docker container:
 
 mvn clean install
+
 docker build -t knowit-integration .
+
 docker run -d -p 8080:8080 knowit-integration
 
 ##
