@@ -1,6 +1,5 @@
 package no.knowit.integration.service;
 
-import no.knowit.integration.digdir.concepts.DigdirConceptsIntegrationService;
 import no.knowit.integration.dto.BegrepDTO;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
